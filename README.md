@@ -29,7 +29,7 @@
 
 🛠️ Tech Stack
 graph TB
-    A[HTML5] --> B[CSS3]
+    A  [HTML5] --> B[CSS3]
     B --> C[JavaScript]
     C --> D[Bootstrap]
     D --> E[Responsive Design]
