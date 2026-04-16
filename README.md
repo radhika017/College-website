@@ -27,8 +27,6 @@
 </tr>
 </table>
 
-## 📱 **Live Pages**
-
 🛠️ Tech Stack
 graph TB
     A[HTML5] --> B[CSS3]
