@@ -34,7 +34,8 @@ graph TB
     C --> D[Bootstrap]
     D --> E[Responsive Design]
 <img width="207" height="29" alt="Screenshot 2026-04-16 214440" src="https://github.com/user-attachments/assets/f508b1ac-c8b5-4750-babf-003499023ee2" />
-<img width="207" height="29" alt="Screenshot 2026-04-16 214440" src="https://github.com/user-attachments/assets/7f87a1fe-f5e2-491e-9f07-8fcd85a552cb" />
+<img width="206" height="26" alt="image" src="https://github.com/user-attachments/assets/fcc4a428-b250-4ce0-8531-0cda977e4627" />
+
 
 
 📸 Interactive Demo
